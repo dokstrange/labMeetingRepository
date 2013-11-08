@@ -8,3 +8,5 @@ f=20
 print a+b
 
 #add your name and what you have done
+
+print (f-e-a)*1000000
